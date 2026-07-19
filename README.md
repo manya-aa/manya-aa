@@ -1,43 +1,63 @@
 # Hi there 👋, I'm Manya Chauhan
 
-## 🚀 Aspiring Software Engineer | Backend Developer | AI Engineer
+## 🚀 Aspiring AI/ML Engineer | Backend Engineer | Data Analytics Enthusiast
 
-I'm a B.Tech student passionate about building scalable backend systems, distributed applications, and AI-powered products.
+I'm a B.Tech student passionate about building scalable software systems, distributed applications, intelligent data platforms, and AI-powered products.
 
-Currently focused on Java, Spring Boot, Microservices, Apache Kafka, Data Engineering, and Generative AI.
+My goal is to become an AI/ML Engineer with strong foundations in Software Engineering, System Design, Distributed Systems and Machine Learning.
 
 ---
 
 ## 🌱 Currently Learning
 
-- Spring Boot Microservices
+- Java & Spring Boot
+- Microservices Architecture
 - Apache Kafka
 - System Design
-- Data Engineering
-- LangGraph & AI Agents
+- Data Structures & Algorithms
+- SQL & Database Design
+- Data Analytics (SQL, Python, Power BI)
+- LangChain & LangGraph
 - FastAPI
-- LLM Applications
+- Machine Learning Fundamentals
 
 ---
 
 ## 🔨 Currently Building
 
-- 🚀 Token Bucket Rate Limiter Service
-- 📡 Event-Driven Microservices with Kafka
-- 🤖 Multi-Agent AI System using LangGraph
-- 📄 PDF RAG Application
-- 📊 Retail Sales & Customer Intelligence Platform
-- 🌍 Urban Heat Prediction using Machine Learning
+🚀 Token Bucket Rate Limiter Service
+
+📡 Adaptive Microservices with Apache Kafka
+
+📄 Github RAG Application
+
+📊 Retail Sales & Customer Intelligence Platform
+
+🌍 Urban Heat Prediction using Machine Learning
 
 ---
 
-## 👯 Looking to Collaborate On
+## 🎯 Long-Term Vision
 
-- Open Source Projects
-- Backend Engineering
-- AI Engineering
-- Java & Spring Boot
-- Kafka Projects
+I'm working towards becoming an AI/ML Engineer capable of building production-grade intelligent systems by combining
+
+- Software Engineering
+- Distributed Systems
+- Machine Learning
+- Generative AI
+- MLOps
+
+---
+
+## 💡 Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Backend Development
+- System Design
+- Distributed Systems
+- Data Analytics
+- High-Performance APIs
 
 ---
 
@@ -51,87 +71,101 @@ Currently focused on Java, Spring Boot, Microservices, Apache Kafka, Data Engine
 - PostgreSQL
 - FastAPI
 - Python
+- SQL
+- Data Analytics
 - LangChain
 - LangGraph
-- RAG
-- SQL
+- Retrieval-Augmented Generation (RAG)
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### Languages
+### 💻 Programming Languages
 
 Java • Python • SQL • C++
 
-### Backend
+### ⚙️ Backend Development
 
 Spring Boot • Spring MVC • Hibernate • JPA • REST APIs • Maven • JWT Authentication
 
-### Databases
+### 🏗️ System Design & Architecture
+
+Microservices • Event-Driven Architecture • API Design • Distributed Systems • Design Patterns
+
+### 📡 Streaming & Messaging
+
+Apache Kafka
+
+### 🗄 Databases
 
 PostgreSQL • MySQL
 
-### Distributed Systems
+### 📊 Data Analytics
 
-Apache Kafka • Event-Driven Architecture
+SQL • Pandas • NumPy • Power BI • Data Visualization • Exploratory Data Analysis (EDA)
 
-### AI Engineering
+### 🤖 AI & Machine Learning
 
 LangChain • LangGraph • RAG • Ollama • FastAPI • Vector Databases
 
-### Data Engineering
+### ☁️ Tools
 
-Apache Spark (Learning)
-ETL
-Data Warehousing
-Data Modeling
-
-### Tools
-
-Git
-GitHub
-Docker
-Postman
-IntelliJ IDEA
-VS Code
+Git • GitHub • Docker • Postman • IntelliJ IDEA • VS Code
 
 ---
 
-## 📂 Featured Projects
+# 📂 Featured Projects
 
 ### 🚀 Token Bucket Rate Limiter Service
 
-A distributed rate-limiting service built with Spring Boot.
+A distributed rate-limiting service implementing the Token Bucket Algorithm with Spring Boot.
+
+---
 
 ### 📡 Event-Driven Microservices
 
-Microservices communicating asynchronously using Apache Kafka.
+Microservices communicating asynchronously using Apache Kafka for high-throughput event processing.
 
-### 🤖 Multi-Agent AI Assistant
+---
 
-AI agents built with LangGraph capable of reasoning and tool calling.
+### 📄 Github RAG Chatbot
 
-### 📄 PDF RAG Chatbot
+Retrieval-Augmented Generation application for querying FastAPI Github using LangChain and vector databases.
 
-Upload PDFs and chat with documents using LangChain.
+---
 
-### 📊 Retail Sales Analytics Platform
+### 📊 Retail Sales & Customer Intelligence Platform
 
-SQL + Python + Power BI project for business insights.
+End-to-end analytics project using SQL, Python, Pandas, and Power BI.
+
+---
 
 ### 🌍 Urban Heat Prediction
 
-Machine Learning model predicting Land Surface Temperature using satellite datasets.
+Machine Learning project predicting Land Surface Temperature using satellite and climate datasets.
+
+---
+
+# 📚 Currently Practicing
+
+- Data Structures & Algorithms
+- Competitive Programming
+- System Design
+- Backend Engineering
+- Machine Learning
+- Data Analytics
 
 ---
 
 ## 📫 Connect With Me
 
-LinkedIn: https://linkedin.com/in/YOUR_LINK
+📧 Email: manyadx777@gmail.com
 
-Email: your-email@example.com
+💼 **LinkedIn:** [Manya Chauhan](https://www.linkedin.com/in/manya-chauhan-bb0576372/)
 
 ---
 
-⭐ I enjoy solving real-world engineering problems by combining backend systems, distributed architecture, and AI.
+> *"Building scalable systems today to create intelligent systems tomorrow."*
+
+⭐ Always learning, building, and sharing.
