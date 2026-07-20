@@ -1,171 +1,25 @@
-# Hi there 👋, I'm Manya Chauhan
+# 💫 About Me:
+# Hi there 👋, I'm Manya Chauhan<br><br>## 🚀 Aspiring AI/ML Engineer | Backend Engineer | Data Analytics Enthusiast<br><br>I'm a B.Tech student passionate about building scalable software systems, distributed applications, intelligent data platforms, and AI-powered products.<br><br>My goal is to become an AI/ML Engineer with strong foundations in Software Engineering, System Design, Distributed Systems and Machine Learning.<br><br>---<br><br>## 🌱 Currently Learning<br><br>- Java & Spring Boot<br>- Microservices Architecture<br>- Apache Kafka<br>- System Design<br>- Data Structures & Algorithms<br>- SQL & Database Design<br>- Data Analytics (SQL, Python, Power BI)<br>- LangChain & LangGraph<br>- FastAPI<br>- Machine Learning Fundamentals<br><br>---<br><br>## 🔨 Currently Building<br><br>🚀 Token Bucket Rate Limiter Service<br><br>📡 Adaptive Microservices with Apache Kafka<br><br>📄 Github RAG Application<br><br>📊 Retail Sales & Customer Intelligence Platform<br><br>🌍 Urban Heat Prediction using Machine Learning<br><br>---<br><br>## 🎯 Long-Term Vision<br><br>I'm working towards becoming an AI/ML Engineer capable of building production-grade intelligent systems by combining<br><br>- Software Engineering<br>- Distributed Systems<br>- Machine Learning<br>- Generative AI<br>- MLOps<br><br>---<br><br>## 💡 Interests<br><br>- Artificial Intelligence<br>- Machine Learning<br>- Backend Development<br>- System Design<br>- Distributed Systems<br>- Data Analytics<br>- High-Performance APIs<br><br>---<br><br>##  📂 Featured Projects<br><br>### 🚀 Token Bucket Rate Limiter Service<br><br>A distributed rate-limiting service implementing the Token Bucket Algorithm with Spring Boot.<br><br>---<br><br>### 📡 Event-Driven Microservices<br><br>Microservices communicating asynchronously using Apache Kafka for high-throughput event processing.<br><br>---<br><br>### 📄 Github RAG Chatbot<br><br>Retrieval-Augmented Generation application for querying FastAPI Github using LangChain and vector databases.<br><br>---<br><br>### 📊 Retail Sales & Customer Intelligence Platform<br><br>End-to-end analytics project using SQL, Python, Pandas, and Power BI.<br><br>---<br><br>### 🌍 Urban Heat Prediction<br><br>Machine Learning project predicting Land Surface Temperature using satellite and climate datasets.<br><br>---<br><br># 
 
-## 🚀 Aspiring AI/ML Engineer | Backend Engineer | Data Analytics Enthusiast
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/manya-chauhan-bb0576372) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manyadx777@gmail.com) 
 
-I'm a B.Tech student passionate about building scalable software systems, distributed applications, intelligent data platforms, and AI-powered products.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=manya-aa&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=manya-aa&theme=gruvbox_light&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=manya-aa&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-My goal is to become an AI/ML Engineer with strong foundations in Software Engineering, System Design, Distributed Systems and Machine Learning.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=manya-aa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-## 🌱 Currently Learning
-
-- Java & Spring Boot
-- Microservices Architecture
-- Apache Kafka
-- System Design
-- Data Structures & Algorithms
-- SQL & Database Design
-- Data Analytics (SQL, Python, Power BI)
-- LangChain & LangGraph
-- FastAPI
-- Machine Learning Fundamentals
-
----
-
-## 🔨 Currently Building
-
-🚀 Token Bucket Rate Limiter Service
-
-📡 Adaptive Microservices with Apache Kafka
-
-📄 Github RAG Application
-
-📊 Retail Sales & Customer Intelligence Platform
-
-🌍 Urban Heat Prediction using Machine Learning
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=manya-aa&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=manya-aa&icon=9&color=8)](https://visitcount.itsvg.in)
 
-## 🎯 Long-Term Vision
-
-I'm working towards becoming an AI/ML Engineer capable of building production-grade intelligent systems by combining
-
-- Software Engineering
-- Distributed Systems
-- Machine Learning
-- Generative AI
-- MLOps
-
----
-
-## 💡 Interests
-
-- Artificial Intelligence
-- Machine Learning
-- Backend Development
-- System Design
-- Distributed Systems
-- Data Analytics
-- High-Performance APIs
-
----
-
-## 💬 Ask Me About
-
-- Java
-- Spring Boot
-- REST APIs
-- Microservices
-- Apache Kafka
-- PostgreSQL
-- FastAPI
-- Python
-- SQL
-- Data Analytics
-- LangChain
-- LangGraph
-- Retrieval-Augmented Generation (RAG)
-
----
-
-# 🛠 Tech Stack
-
-### 💻 Programming Languages
-
-Java • Python • SQL • C++
-
-### ⚙️ Backend Development
-
-Spring Boot • Spring MVC • Hibernate • JPA • REST APIs • Maven • JWT Authentication
-
-### 🏗️ System Design & Architecture
-
-Microservices • Event-Driven Architecture • API Design • Distributed Systems • Design Patterns
-
-### 📡 Streaming & Messaging
-
-Apache Kafka
-
-### 🗄 Databases
-
-PostgreSQL • MySQL
-
-### 📊 Data Analytics
-
-SQL • Pandas • NumPy • Power BI • Data Visualization • Exploratory Data Analysis (EDA)
-
-### 🤖 AI & Machine Learning
-
-LangChain • LangGraph • RAG • Ollama • FastAPI • Vector Databases
-
-### ☁️ Tools
-
-Git • GitHub • Docker • Postman • IntelliJ IDEA • VS Code
-
----
-
-# 📂 Featured Projects
-
-### 🚀 Token Bucket Rate Limiter Service
-
-A distributed rate-limiting service implementing the Token Bucket Algorithm with Spring Boot.
-
----
-
-### 📡 Event-Driven Microservices
-
-Microservices communicating asynchronously using Apache Kafka for high-throughput event processing.
-
----
-
-### 📄 Github RAG Chatbot
-
-Retrieval-Augmented Generation application for querying FastAPI Github using LangChain and vector databases.
-
----
-
-### 📊 Retail Sales & Customer Intelligence Platform
-
-End-to-end analytics project using SQL, Python, Pandas, and Power BI.
-
----
-
-### 🌍 Urban Heat Prediction
-
-Machine Learning project predicting Land Surface Temperature using satellite and climate datasets.
-
----
-
-# 📚 Currently Practicing
-
-- Data Structures & Algorithms
-- Competitive Programming
-- System Design
-- Backend Engineering
-- Machine Learning
-- Data Analytics
-
----
-
-## 📫 Connect With Me
-
-📧 Email: manyadx777@gmail.com
-
-💼 **LinkedIn:** [Manya Chauhan](https://www.linkedin.com/in/manya-chauhan-bb0576372/)
-
----
-
-> *"Building scalable systems today to create intelligent systems tomorrow."*
-
-⭐ Always learning, building, and sharing.
